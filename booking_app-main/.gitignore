@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example
+.claude
+
+# Strategy doc — internal only, not for public repo
+BACKEND_STRATEGY.md
